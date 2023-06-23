@@ -1,0 +1,5 @@
+placeholder item for images
+
+more nested folder if a lot of images
+
+also folder to hold .css files
